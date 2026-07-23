@@ -1,0 +1,25 @@
+{
+  "name": "airbnb-system-design",
+  "version": "1.0.0",
+  "description": "## Overview This repository contains the foundational **Relational Database Architecture** for a simplified Airbnb clone. It focuses heavily on **Data Integrity, Cardinality, and Financial Data Safety**, simulating an enterprise-level PostgreSQL environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S4v3easy/Airbnb-System-Design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S4v3easy/Airbnb-System-Design/issues"
+  },
+  "homepage": "https://github.com/S4v3easy/Airbnb-System-Design#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.110.8",
+    "dotenv": "^17.4.2",
+    "typescript": "^7.0.2"
+  }
+}
